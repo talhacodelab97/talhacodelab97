@@ -21,8 +21,6 @@ Hi! I am Software Engineering Student and a Web Developer also <br>a Good  Progr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=talhacodelab97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=talhacodelab97&icon=2&color=0)](https://visitcount.itsvg.in)
